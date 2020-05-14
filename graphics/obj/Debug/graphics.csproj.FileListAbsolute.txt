@@ -1,0 +1,10 @@
+C:\Users\geliron\source\repos\graphics\graphics\bin\Debug\graphics.exe.config
+C:\Users\geliron\source\repos\graphics\graphics\bin\Debug\graphics.exe
+C:\Users\geliron\source\repos\graphics\graphics\bin\Debug\graphics.pdb
+C:\Users\geliron\source\repos\graphics\graphics\obj\Debug\graphics.csprojAssemblyReference.cache
+C:\Users\geliron\source\repos\graphics\graphics\obj\Debug\graphics.Form1.resources
+C:\Users\geliron\source\repos\graphics\graphics\obj\Debug\graphics.Properties.Resources.resources
+C:\Users\geliron\source\repos\graphics\graphics\obj\Debug\graphics.csproj.GenerateResource.cache
+C:\Users\geliron\source\repos\graphics\graphics\obj\Debug\graphics.csproj.CoreCompileInputs.cache
+C:\Users\geliron\source\repos\graphics\graphics\obj\Debug\graphics.exe
+C:\Users\geliron\source\repos\graphics\graphics\obj\Debug\graphics.pdb
